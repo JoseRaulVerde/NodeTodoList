@@ -22,7 +22,7 @@ Before running this application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/todo-console-app.git
+    git clone [https://github.com/your-username/todo-console-app.git](https://github.com/JoseRaulVerde/NodeTodoList.git)
     ```
 
 2. Navigate to the project folder:
