@@ -28,7 +28,7 @@ Before running this application, ensure you have the following installed:
 2. Navigate to the project folder:
 
     ```bash
-    cd todo-console-app
+    cd NodeTodoList
     ```
 
 3. Install the required dependencies:
